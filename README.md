@@ -21,4 +21,4 @@ Os arquivos de código estão organizados por categoria dentro da plataforma:
 
 | ID | Nome do Problema | Linguagem | Nível | Pasta |
 | :---: | :--- | :---: | :---: | :---: |
-| 1024 | https://judge.beecrowd.com/pt/problems/view/1024 | Java | 5 | [Ver](./2_String/) |
+| 1024 | https://judge.beecrowd.com/pt/problems/view/1024 | Java | 5 | [Ver](./String/) |
