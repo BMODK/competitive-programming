@@ -21,4 +21,4 @@ Os arquivos de código estão organizados por categoria dentro da plataforma:
 
 | ID | Nome do Problema | Link | Linguagem | Nível | Pasta |
 | :---: | :--- | :---: | :---: | :---: | :---: |
-| 1024 | Criptografia |https://judge.beecrowd.com/pt/problems/view/1024 | Java | 5 | [Ver](./Strings/) |
+| 1 | Criptografia |https://judge.beecrowd.com/pt/problems/view/1024 | Java | 5 | [Ver](./Strings/) |
