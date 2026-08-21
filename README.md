@@ -12,13 +12,13 @@ Os arquivos de código estão organizados por categoria dentro da plataforma:
 
 ```text
 .
-├── 1_Iniciante/
-├── 2_Strings/
-├── 3_Estruturas/
+├── Iniciante/
+├── Strings/
+├── Estruturas/
 └── README.md
 ```
 ## 📝 Questões Resolvidas
 
 | ID | Nome do Problema | Linguagem | Nível | Pasta |
 | :---: | :--- | :---: | :---: | :---: |
-| 1024 | https://judge.beecrowd.com/pt/problems/view/1024 | Java | 5 | [Ver](./String/) |
+| 1024 | https://judge.beecrowd.com/pt/problems/view/1024 | Java | 5 | [Ver](./Strings/) |
