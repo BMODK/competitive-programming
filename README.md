@@ -14,6 +14,7 @@ Os arquivos de código estão organizados por categoria dentro da plataforma:
 .
 ├── Iniciante/
 ├── Strings/
+├── Matemática/
 ├── Estruturas/
 └── README.md
 ```
@@ -22,3 +23,4 @@ Os arquivos de código estão organizados por categoria dentro da plataforma:
 | ID | Nome do Problema | Link | Linguagem | Nível | Pasta |
 | :---: | :--- | :---: | :---: | :---: | :---: |
 | 1 | Criptografia |https://judge.beecrowd.com/pt/problems/view/1024 | Java | 5 | [Ver](./Strings/) |
+| 2 | Soma de Fatoriais |https://judge.beecrowd.com/pt/problems/view/1161 | C | 5 | [Ver](./Matemática/) |
