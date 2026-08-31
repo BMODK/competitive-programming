@@ -1,8 +1,8 @@
-# 🐝 Soluções Beecrowd
+# Praticando
 
-Repositório criado para centralizar e organizar a resolução de problemas do Beecrowd, auxiliando na fixação da lógica de programação e no acompanhamento das questões da faculdade.
+Repositório criado para centralizar e organizar a resolução de problemas de diversos sites de programação(Principalmente Beecrowd), auxiliando na fixação da lógica de programação e no acompanhamento das questões da faculdade.
 
-Os principais ambientes de desenvolvimento utilizados são Linux, com codificação feita diretamente no terminal através do editor Vim e no Windows utilizando o VsCode.
+O principal ambiente de desenvolvimento utilizado é o VsCode no Windows.
 
 ---
 
@@ -12,7 +12,7 @@ Os arquivos de código estão organizados por categoria dentro da plataforma:
 
 ```text
 .
-├── Iniciante/
+├── Diversos/
 ├── Strings/
 ├── Matemática/
 ├── Estruturas/
@@ -24,3 +24,4 @@ Os arquivos de código estão organizados por categoria dentro da plataforma:
 | :---: | :--- | :---: | :---: | :---: | :---: |
 | 1 | Criptografia |https://judge.beecrowd.com/pt/problems/view/1024 | Java | 5 | [Ver](./Strings/) |
 | 2 | Soma de Fatoriais |https://judge.beecrowd.com/pt/problems/view/1161 | C | 5 | [Ver](./Matemática/) |
+| 3 | Is your horseshoe on the other hoof? | https://codeforces.com/problemset/problem/228/A | Java | ? | [Ver](./Diversos/) |
